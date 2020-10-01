@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Data Structure and Algorithms.
 - 🌱 I’m currently learning Web Development.
 - ⚡ Fun fact: I love Gaming and Photography.
-- 📌 Follow <a href="https://instagram.com/thecyberatom/"> Introvert Coders </a> to learn Coding.
+- 📌 Follow my page <a href="https://instagram.com/thecyberatom/"> Introvert Coders </a> on Instagram for amazing coding content.
 
 ### Connect with me :
 <a href="https://twitter.com/thecyberatom">
