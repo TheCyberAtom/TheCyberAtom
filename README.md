@@ -1,11 +1,18 @@
 ## Hi there, I am Rahul Kumar Mishra 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheCyberAtom&label=Views&color=blue&style=plastic" alt="TheCyberAtom" /> </p>
 
+
 ### I'm a final year student of SRM Institute of Science and Technology.
 
-####Connect with me :
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Data Structure and Algorithms.
+- 🌱 I’m currently learning Web Development.
+- ⚡ Fun fact: I love Gaming and Photography.
+
+#### Connect with me :
 <a href="https://twitter.com/thecyberatom">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Rahul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/thecyberatom">
   <img align="left" alt="Rahul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -23,19 +30,17 @@
   <img align="left" alt="Rahul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Data Structure and Algorithms.
-- 🌱 I’m currently learning Web Development.
-- ⚡ Fun fact: I love Gaming and Photography.
-
-[![Twitter: thecyberatom](https://img.shields.io/twitter/follow/thecyberatom?style=social)](https://twitter.com/imthepk)
-[![Linkedin: thecyberatom](https://img.shields.io/badge/-thecyberatom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thecyberatom/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub TheCyberAtom](https://img.shields.io/github/followers/TheCyberAtom?label=follow&style=social)](https://github.com/TheCyberAtom)
+</br>
 
 <a href="https://github.com/TheCyberAtom">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberAtom&theme=light&hide_langs_below=1" />
 </a>
+</br>
 <a href="https://github.com/TheCyberAtom">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheCyberAtom&show_icons=true&theme=dark&line_height=27" alt="Rahul's github stats"/>
 </a>
+</br>
+
+[![Twitter: thecyberatom](https://img.shields.io/twitter/follow/thecyberatom?style=social)](https://twitter.com/thecyberatom)
+[![Linkedin: thecyberatom](https://img.shields.io/badge/-thecyberatom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thecyberatom/)](https://www.linkedin.com/in/imthepk/)
+[![GitHub TheCyberAtom](https://img.shields.io/github/followers/TheCyberAtom?label=follow&style=social)](https://github.com/TheCyberAtom)
