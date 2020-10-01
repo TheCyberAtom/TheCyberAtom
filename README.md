@@ -37,5 +37,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberAtom&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/TheCyberAtom">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheCyberAtom&show_icons=true&theme=light&line_height=27" alt="Rahul's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheCyberAtom&show_icons=true&theme=dark&line_height=27" alt="Rahul's github stats"/>
 </a>
