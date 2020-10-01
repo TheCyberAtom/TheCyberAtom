@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Data Structure and Algorithms.
 - 🌱 I’m currently learning Web Development.
 - ⚡ Fun fact: I love Gaming and Photography.
+- 📌 Follow <a href="https://instagram.com/thecyberatom/"> Introvert Coders </a> to learn Coding.
 
 ### Connect with me :
 <a href="https://twitter.com/thecyberatom">
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 <br />
 
 <a href="https://github.com/TheCyberAtom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberAtom&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberAtom&theme=dark&hide_langs_below=1" />
 </a>
 <br/>
 <a href="https://github.com/TheCyberAtom">
