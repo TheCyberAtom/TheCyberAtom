@@ -1,8 +1,12 @@
-<img align="right" height="26" src="https://komarev.com/ghpvc/?username=TheCyberAtom&label=Views&color=blue&style=plastic" alt="TheCyberAtom" /> 
-
 ## Hi there, I am Rahul Kumar Mishra 👋
 
-<img align="right" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/tca.gif">
+[![Twitter: thecyberatom](https://img.shields.io/twitter/follow/thecyberatom?style=social)](https://twitter.com/thecyberatom)
+[![Linkedin: thecyberatom](https://img.shields.io/badge/-thecyberatom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thecyberatom/)](https://www.linkedin.com/in/thecyberatom/)
+[![GitHub TheCyberAtom](https://img.shields.io/github/followers/TheCyberAtom?label=follow&style=social)](https://github.com/TheCyberAtom)
+<img height="20" src="https://komarev.com/ghpvc/?username=TheCyberAtom&label=Views&color=blue&style=plastic" alt="TheCyberAtom" />
+
+
+<img align="right" height="210" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/tca.gif">
 
 ### I'm a final year student of SRM Institute of Science and Technology.
 
@@ -46,13 +50,6 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
-<br />
-
----
-
-[![Twitter: thecyberatom](https://img.shields.io/twitter/follow/thecyberatom?style=social)](https://twitter.com/thecyberatom)
-[![Linkedin: thecyberatom](https://img.shields.io/badge/-thecyberatom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thecyberatom/)](https://www.linkedin.com/in/thecyberatom/)
-[![GitHub TheCyberAtom](https://img.shields.io/github/followers/TheCyberAtom?label=follow&style=social)](https://github.com/TheCyberAtom)
 <br />
 
 ---
