@@ -1,4 +1,6 @@
-![TheCyberAtom](https://github.com/TheCyberAtom/TheCyberAtom/raw/master/tac.gif)
+<div align="right">
+	<img src="https://github.com/TheCyberAtom/TheCyberAtom/raw/master/tac.gif">
+</div>
 
 ## Hi there, I am Rahul Kumar Mishra 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheCyberAtom&label=Views&color=blue&style=plastic" alt="TheCyberAtom" /> </p>
