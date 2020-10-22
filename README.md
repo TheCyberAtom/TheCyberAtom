@@ -1,5 +1,6 @@
+<img align="right" height="26" src="https://komarev.com/ghpvc/?username=TheCyberAtom&label=Views&color=blue&style=plastic" alt="TheCyberAtom" /> 
+
 ## Hi there, I am Rahul Kumar Mishra 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheCyberAtom&label=Views&color=blue&style=plastic" alt="TheCyberAtom" /> </p>
 
 <img align="right" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/tca.gif">
 
