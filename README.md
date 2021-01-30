@@ -19,32 +19,31 @@ Here are some ideas to get you started:
   /*
   <img align="center" alt="Rahul's Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   Introvert Coders </a> on Instagram for amazing coding content. -->
----
-### Connect With Me:
-
-<a href="https://twitter.com/thecyberatom">
-  <img align="left" alt="Rahul's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/thecyberatom">
-  <img align="left" alt="Rahul's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/TheCyberAtom">
-  <img align="left" alt="Rahul's Github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/thecyberatom">
-  <img align="left" alt="Rahul's Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/thecyberatom/">
-  <img align="left" alt="Rahul's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/thecyberatom/">
-  <img align="left" alt="Rahul's Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br/>
-
----
-<div align="center">
   
+## Connect With Me
+
+<p id="socialIcons" align="center">
+    <a href="https://linkedin.com/in/thecyberatom" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+    <a href="https://hackerrank.com/thecyberatom" alt="HackerRank">
+        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
+    <a href="https://www.facebook.com/thecyberatom" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+    <a href="https://stackoverflow.com/" alt="StackOverflow">
+        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+    <a href="https://instagram.com/thecyberatom" alt="Instagram">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
+
+[github]: https://github.com/TheCyberAtom
+[linkedin]: https://linkedin.com/in/thecyberatom
+[hackerrank]: https://hackerrank.com/thecyberatom
+[instagram]: https://instagram.com/thecyberatom
+[stackoverflow]: https://stackoverflow.com/
+
+
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -53,7 +52,6 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
-</div>
 
 ---
 
