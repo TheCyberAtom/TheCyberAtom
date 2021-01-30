@@ -1,5 +1,7 @@
 <img align="left" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/hi.gif">
-<h1 align="center"><b>Rahul Kumar Mishra</b></h1>
+<img align="right" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/hi.gif">
+
+<h1 align="center"><b>I am Rahul Kumar Mishra</b></h1>
 <h4 align="center"> I'm a final year student of SRM Institute of Science and Technology.</h4>
 
 <!--[![Twitter: thecyberatom](https://img.shields.io/twitter/follow/thecyberatom?style=social)](https://twitter.com/thecyberatom)]-->
