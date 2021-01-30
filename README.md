@@ -1,22 +1,22 @@
-<img align="right" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/hi.gif">
-
-## Hi there, I am Rahul Kumar Mishra 👋
+<img align="left" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/hi.gif">
+<h1 align="center"><b>Rahul Kumar Mishra</b></h1>
+<h4 align="center"> I'm a final year student of SRM Institute of Science and Technology.</h4>
 
 <!--[![Twitter: thecyberatom](https://img.shields.io/twitter/follow/thecyberatom?style=social)](https://twitter.com/thecyberatom)]-->
 [![Linkedin: thecyberatom](https://img.shields.io/badge/-thecyberatom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thecyberatom/)](https://www.linkedin.com/in/thecyberatom/)
 [![GitHub TheCyberAtom](https://img.shields.io/github/followers/TheCyberAtom?label=follow&style=social)](https://github.com/TheCyberAtom)
 <img height="20" src="https://komarev.com/ghpvc/?username=TheCyberAtom&label=Views&color=blue&style=plastic" alt="TheCyberAtom" />
 
-### I'm a final year student of SRM Institute of Science and Technology.
-
+<!--
 Here are some ideas to get you started:
-
+<
 - 🔭 I’m currently working on Data Structure and Algorithms.
 - 🌱 I’m currently learning Web Development.
 - ⚡ Fun fact: I love Gaming and Photography.
 - 📌 Follow my page <a href="https://instagram.com/introvertcoders/"> 
+  /*
   <img align="center" alt="Rahul's Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  Introvert Coders </a> on Instagram for amazing coding content.
+  Introvert Coders </a> on Instagram for amazing coding content. -->
 ---
 ### Connect with me :
 <a href="https://twitter.com/thecyberatom">
