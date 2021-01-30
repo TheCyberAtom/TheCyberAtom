@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Rahul's Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   Introvert Coders </a> on Instagram for amazing coding content. -->
 ---
-<h2 align="center"><b> Connect With Me </b></h2>
+### Connect With Me:
+
 <a href="https://twitter.com/thecyberatom">
   <img align="left" alt="Rahul's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -42,7 +43,8 @@ Here are some ideas to get you started:
 <br/>
 
 ---
-
+<div align="center">
+  
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -51,6 +53,7 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
+</div>
 
 ---
 
