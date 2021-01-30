@@ -4,12 +4,8 @@
 <h1 align="center"><b>I am Rahul Kumar Mishra</b></h1>
 <h4 align="center"> I'm a final year student of SRM Institute of Science and Technology.</h4>
 
-<!--[![Twitter: thecyberatom](https://img.shields.io/twitter/follow/thecyberatom?style=social)](https://twitter.com/thecyberatom)]-->
-[![Linkedin: thecyberatom](https://img.shields.io/badge/-thecyberatom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thecyberatom/)](https://www.linkedin.com/in/thecyberatom/)
-[![GitHub TheCyberAtom](https://img.shields.io/github/followers/TheCyberAtom?label=follow&style=social)](https://github.com/TheCyberAtom)
-<img height="20" src="https://komarev.com/ghpvc/?username=TheCyberAtom&label=Views&color=blue&style=plastic" alt="TheCyberAtom" />
-
 <!--
+<img height="20" src="https://komarev.com/ghpvc/?username=TheCyberAtom&label=Views&color=blue&style=plastic" alt="TheCyberAtom" />
 Here are some ideas to get you started:
 <
 - 🔭 I’m currently working on Data Structure and Algorithms.
@@ -19,10 +15,9 @@ Here are some ideas to get you started:
   /*
   <img align="center" alt="Rahul's Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   Introvert Coders </a> on Instagram for amazing coding content. -->
-  
-## Connect With Me
 
 <p id="socialIcons" align="center">
+    <h3><b>Connect With Me</b></h3>
     <a href="https://linkedin.com/in/thecyberatom" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
     <a href="https://hackerrank.com/thecyberatom" alt="HackerRank">
