@@ -1,8 +1,10 @@
 <img align="left" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/hi.gif">
 <img align="right" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/hi.gif">
 
-<h1 align="center"><b>Rahul Kumar Mishra</b></h1>
-<h4 align="center">SRM Institute of Science and Technology.</h4>
+<h1 align="center" font-family="poppins"><b>Rahul Kumar Mishra</b></h1>
+<h4 align="center">Student at SRM Institute of Science and Technology</h4>
+<h4 align="center">Learning Web Development and Web Designing</h4>
+<h4 align="center">I have a page on Instagram <a href="https://instagram.com/introvertcoders/">Introvert Coders</a></h4>
 
 <!--
 <img height="20" src="https://komarev.com/ghpvc/?username=TheCyberAtom&label=Views&color=blue&style=plastic" alt="TheCyberAtom" />
@@ -15,6 +17,8 @@ Here are some ideas to get you started:
   /*
   <img align="center" alt="Rahul's Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   Introvert Coders </a> on Instagram for amazing coding content. -->
+
+---
 
 <h3 align="center"><b>Connect With Me</b></h3>
 <p id="socialIcons" align="center">
@@ -66,10 +70,14 @@ Here are some ideas to get you started:
 
 ---
 
+<p align="center">
 <a href="https://github.com/TheCyberAtom">
-  <img align="center" height="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberAtom&theme=dark&hide_langs_below=1" />
+<img height="125em" src="https://github-readme-stats.vercel.app/api?username=TheCyberAtom&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/TheCyberAtom">
- <img align="center" height="290" src="https://github-readme-stats.vercel.app/api?username=TheCyberAtom&show_icons=true&theme=dark&line_height=27" alt="Rahul's github stats"/>
+<img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberAtom&layout=compact&theme=great-gatsby" />
 </a>
-<br/>
+<a href="https://github.com/TheCyberAtom">
+<img height="125em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheCyberAtom&layout=compact&theme=great-gatsby"/>
+</a>
+</p>
