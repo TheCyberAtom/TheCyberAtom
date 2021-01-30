@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <p id="socialIcons" align="center">
   <a><img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" /></a>
   <a><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" /></a>
-  <a><img src="http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)" /></a>
+  <a><img src="http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff" /></a>
   <a><img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" /></a>
   <a><img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" /></a>
   <a><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
