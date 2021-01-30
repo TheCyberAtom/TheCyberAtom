@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rahul's Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   Introvert Coders </a> on Instagram for amazing coding content. -->
 ---
-### Connect with me :
+<h2 align="center"><b> Connect With Me </b></h2>
 <a href="https://twitter.com/thecyberatom">
   <img align="left" alt="Rahul's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 ---
 
 <a href="https://github.com/TheCyberAtom">
-  <img align="center" height="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberAtom&theme=dark&hide_langs_below=1" />
+  <img align="center" height="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberAtom&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/TheCyberAtom">
- <img align="center" height="275" src="https://github-readme-stats.vercel.app/api?username=TheCyberAtom&show_icons=true&theme=dark&line_height=27" alt="Rahul's github stats"/>
+ <img align="center" height="290" src="https://github-readme-stats.vercel.app/api?username=TheCyberAtom&show_icons=true&theme=dark&line_height=27" alt="Rahul's github stats"/>
 </a>
 <br/>
