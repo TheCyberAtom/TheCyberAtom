@@ -1,12 +1,11 @@
+<img align="right" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/hi.gif">
+
 ## Hi there, I am Rahul Kumar Mishra 👋
 
 <!--[![Twitter: thecyberatom](https://img.shields.io/twitter/follow/thecyberatom?style=social)](https://twitter.com/thecyberatom)]-->
 [![Linkedin: thecyberatom](https://img.shields.io/badge/-thecyberatom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thecyberatom/)](https://www.linkedin.com/in/thecyberatom/)
 [![GitHub TheCyberAtom](https://img.shields.io/github/followers/TheCyberAtom?label=follow&style=social)](https://github.com/TheCyberAtom)
 <img height="20" src="https://komarev.com/ghpvc/?username=TheCyberAtom&label=Views&color=blue&style=plastic" alt="TheCyberAtom" />
-
-
-<img align="right" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/tca.gif">
 
 ### I'm a final year student of SRM Institute of Science and Technology.
 
@@ -54,9 +53,9 @@ Here are some ideas to get you started:
 ---
 
 <a href="https://github.com/TheCyberAtom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberAtom&theme=dark&hide_langs_below=1" />
+  <img align="center" height="275" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberAtom&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/TheCyberAtom">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheCyberAtom&show_icons=true&theme=dark&line_height=27" alt="Rahul's github stats"/>
+ <img align="center" height="275" src="https://github-readme-stats.vercel.app/api?username=TheCyberAtom&show_icons=true&theme=dark&line_height=27" alt="Rahul's github stats"/>
 </a>
 <br/>
