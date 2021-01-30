@@ -16,16 +16,16 @@ Here are some ideas to get you started:
   <img align="center" alt="Rahul's Instagram" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   Introvert Coders </a> on Instagram for amazing coding content. -->
 
+<h3 align="center"><b>Connect With Me</b></h3>
 <p id="socialIcons" align="center">
-    <h3><b>Connect With Me</b></h3>
     <a href="https://linkedin.com/in/thecyberatom" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-    <a href="https://hackerrank.com/thecyberatom" alt="HackerRank">
-        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
+    <!--<a href="https://hackerrank.com/thecyberatom" alt="HackerRank">
+        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>-->
     <a href="https://www.facebook.com/thecyberatom" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-    <a href="https://stackoverflow.com/" alt="StackOverflow">
-        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+    <!--<a href="https://stackoverflow.com/" alt="StackOverflow">
+        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>-->
     <a href="https://instagram.com/thecyberatom" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
