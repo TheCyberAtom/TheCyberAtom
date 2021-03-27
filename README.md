@@ -4,7 +4,7 @@
 <h1 align="center" font-family="poppins"><b>Rahul Kumar Mishra</b></h1>
 <h4 align="center">Student at SRM Institute of Science and Technology</h4>
 <h4 align="center">Learning Web Development and Web Designing</h4>
-<h4 align="center">I have a page on Instagram <a href="https://instagram.com/introvertcoders_/">Introvert Coders</a></h4>
+<h4 align="center">I have a page on Instagram <a href="https://instagram.com/introvertcoders/">Introvert Coders</a></h4>
 
 <!--
 <img height="20" src="https://komarev.com/ghpvc/?username=TheCyberAtom&label=Views&color=blue&style=plastic" alt="TheCyberAtom" />
