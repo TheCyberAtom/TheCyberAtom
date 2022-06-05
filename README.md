@@ -1,5 +1,5 @@
-<img align="left" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/hi.gif">
-<img align="right" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/hi.gif">
+<!-- <img align="left" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/hi.gif">
+<img align="right" height="200" src = "https://github.com/TheCyberAtom/TheCyberAtom/blob/master/hi.gif"> -->
 
 <h1 align="center" font-family="poppins"><b>Rahul Kumar Mishra</b></h1>
 <h4 align="center">Student at SRM Institute of Science and Technology</h4>
