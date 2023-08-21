@@ -1,14 +1,17 @@
 <h1 align="left" font-family="poppins"><b>Hi 👋, I'm Rahul Kumar Mishra</b></h1>
+<div>
+<img align="right" width="200px" src="https://github.com/TheCyberAtom/TheCyberAtom/blob/master/laptop.gif" />
 <h4 align="left">A creative Computer Science Engineer skilled in React, dedicated to delivering polished front-end solutions that fuse functionality with aesthetics.</h4>
-<h4 align="left"><a href="https://thecyberatom.netlify.app/">Visit My Portfolio</a></h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecyberatom&label=Profile%20views&color=0e75b6&style=flat" alt="thecyberatom" /> </p>
+</div>
 
 ---
 
 <h3 align="left"><b>Connect With Me</b></h3>
 <p align="left">
-<a href="https://linkedin.com/in/thecyberatom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thecyberatom" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thecyberatom" target="blank"><img align="center" src="https://github.com/TheCyberAtom/TheCyberAtom/blob/master/linkedin.png" alt="thecyberatom" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thecyberatom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thecyberatom" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/thecyberatom" target="blank"><img align="center" src="https://github.com/TheCyberAtom/TheCyberAtom/blob/master/web-link.png" alt="thecyberatom" height="30" width="40" /></a>
 </p>
 
 ---
