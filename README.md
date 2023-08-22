@@ -1,6 +1,6 @@
 <h1 align="left" font-family="poppins"><b>Hi 👋, I'm Rahul Kumar Mishra</b></h1>
 <div>
-<img align="right" width="200px" src="https://github.com/TheCyberAtom/TheCyberAtom/blob/master/laptop.gif" />
+<!-- <img align="right" width="200px" src="https://github.com/TheCyberAtom/TheCyberAtom/blob/master/laptop.gif" /> -->
 <h4 align="left">A creative Computer Science Engineer skilled in React, dedicated to delivering polished front-end solutions that fuse functionality with aesthetics.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecyberatom&label=Profile%20views&color=0e75b6&style=flat" alt="thecyberatom" /> </p>
 </div>
