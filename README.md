@@ -9,9 +9,9 @@
 
 <h3 align="left"><b>Connect With Me</b></h3>
 <p align="left">
-<a href="https://linkedin.com/in/thecyberatom" target="blank"><img align="center" src="https://github.com/TheCyberAtom/TheCyberAtom/blob/master/linkedin.png" alt="thecyberatom" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thecyberatom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thecyberatom" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thecyberatom" target="blank"><img align="center" src="https://github.com/TheCyberAtom/TheCyberAtom/blob/master/web-link.png" alt="thecyberatom" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thecyberatom" target="_blank"><img align="center" src="https://github.com/TheCyberAtom/TheCyberAtom/blob/master/linkedin.png" alt="thecyberatom" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/thecyberatom" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thecyberatom" height="30" width="40" /></a>
+<a href="https://thecyberatom.netlify.app/" target="_blank"><img align="center" src="https://github.com/TheCyberAtom/TheCyberAtom/blob/master/web-link.png" alt="thecyberatom" height="30" width="40" /></a>
 </p>
 
 ---
