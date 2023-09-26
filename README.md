@@ -1,7 +1,6 @@
 <h1 align="left" font-family="poppins"><b>Hi 👋, I'm Rahul Kumar Mishra</b></h1>
 <div>
-<!-- <img align="right" width="200px" src="https://github.com/TheCyberAtom/TheCyberAtom/blob/master/laptop.gif" /> -->
-<h4 align="left">A creative Computer Science Engineer skilled in React, dedicated to delivering polished front-end solutions that fuse functionality with aesthetics.</h4>
+<p align="left">A creative Computer Science Engineer skilled in React, dedicated to delivering polished front-end solutions that fuse functionality with aesthetics.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecyberatom&label=Profile%20views&color=0e75b6&style=flat" alt="thecyberatom" /> </p>
 </div>
 
@@ -145,12 +144,12 @@
 
 <p align="left">
 <a href="https://github.com/TheCyberAtom">
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheCyberAtom&layout=compact&theme=buefy"/>
+<img height="150em" width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheCyberAtom&layout=compact&theme=buefy"/>
 </a>
-<!-- <a href="https://github.com/TheCyberAtom">
-<img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=TheCyberAtom&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
-</a> -->
 <a href="https://github.com/TheCyberAtom">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberAtom&layout=compact&theme=buefy" />
+<img height="150em" width="350em" src="https://github-stats-alpha.vercel.app/api?username=TheCyberAtom" />
+</a>
+<a href="https://github.com/TheCyberAtom">
+<img height="150em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberAtom&layout=compact&theme=buefy" />
 </a>
 </p>
