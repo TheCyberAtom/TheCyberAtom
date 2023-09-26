@@ -144,12 +144,12 @@
 
 <p align="left">
 <a href="https://github.com/TheCyberAtom">
-<img height="150em" width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheCyberAtom&layout=compact&theme=buefy"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheCyberAtom&layout=compact&theme=buefy"/>
 </a>
 <a href="https://github.com/TheCyberAtom">
-<img height="150em" width="350em" src="https://github-stats-alpha.vercel.app/api?username=TheCyberAtom" />
+<img height="150em" src="https://github-stats-alpha.vercel.app/api?username=TheCyberAtom" />
 </a>
-<a href="https://github.com/TheCyberAtom">
+<!-- <a href="https://github.com/TheCyberAtom">
 <img height="150em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberAtom&layout=compact&theme=buefy" />
-</a>
+</a> -->
 </p>
